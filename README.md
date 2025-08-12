@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This demonstration outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 Step 1
 ------
-The beginning of a ticket lifecycle is the creation of the ticket. Let's create a ticket. To create a ticket with osTicket, go to the webpage http://localhost/osTicket. Then click on "Open New Ticket". 
+The beginning of a ticket lifecycle is the creation of the ticket. To create a ticket with osTicket, I went to the webpage http://localhost/osTicket. Then I clicked on "Open New Ticket". 
 
 In this example, the person who is creating the ticket is Karen Doe. She chose the "Help Topic" called "Report a Problem/Business Critical Outage" since the online banking system is down.Once the necessary information is filled in, click on "Create Ticket". 
 <p>
