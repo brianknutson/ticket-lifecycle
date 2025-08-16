@@ -30,6 +30,7 @@ Step 1
 ------
 The beginning of a ticket lifecycle is the creation of the ticket. To create a ticket with osTicket, I went to the webpage http://localhost/osTicket. Then I clicked on "Open New Ticket".
 In this example, the person who is creating the ticket is Karen Doe. She chose the "Help Topic" called "Report a Problem/Business Critical Outage" since the online banking system is down. Once the necessary information was filled in, she clicked on "Create Ticket".
+
 <img src="https://i.imgur.com/lDMGnBg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
